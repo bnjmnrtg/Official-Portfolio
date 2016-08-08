@@ -63,3 +63,12 @@ body {
     border-radius: 10px;
     margin-top: 30px;
 }
+
+@media screen and (max-width: 480px){
+    body {
+    background: url(http://mobile.freewallpaper4.me/320x480/1826-san-antonio-spurs.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
